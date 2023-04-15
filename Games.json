@@ -482,64 +482,57 @@
   "category": [
     {
       "id": "0",
-      "name": "Arcade Games",
+      "name": "Casual Games",
       "icon": "",
       "gameList": [
         {
           "id": "0",
-          "gameurl": "https://poki.com/en/g/tetra-blocks#fullscreen",
-          "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/496ce4d278e060a7e0e55f25916400a3.png",
-          "gamename": "Tetra Blocks",
-          "gamedes": "Tetra Blocks is an arcade game created by Ravalmatic. Breathing new life into the famous arcade classic, this game improves the nostalgic experience by introducing an original game."
+          "gameurl": "https://poki.com/en/g/bubble-shooter-lak#fullscreen",
+          "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=80,height=80,fit=cover,f=auto/2d5e417ea0fc1ef06d746b2cef691c07.png",
+          "gamename": "Bubble Shooter",
+          "gamedes": "Bubble Shooter is an arcade game where you pop colorful bubbles. Make combinations of three or more bubbles of the same color by throwing identical bubbles at them."
         },
         {
           "id": "1",
-          "gameurl": "https://poki.com/en/g/pool-club#fullscreen",
-          "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/fe7b5c8267b63ee56134841474fe0aea.png",
-          "gamename": "Pool Club",
-          "gamedes": "Pool Club is a pool game created by Ravalmatic. Offering a smooth solo player pool game, Pool Club will challenge you to sink as many racks of balls as possible in 90 seconds."
-        },
-        {
-          "id": "2",
-          "gameurl": "https://poki.com/en/g/neon-war#fullscreen",
-          "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/fa5df60bca1052ba07da706f9be4c687.png",
-          "gamename": "Neon War",
-          "gamedes": "Neon War is a skill game where you control a cannon that shoots its balls periodically into the air."
+          "gameurl": "https://poki.com/en/g/game-of-farmers#fullscreen",
+          "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=80,height=80,fit=cover,f=auto/b30b92f7ef56451792c76d014402406a.png",
+          "gamename": "Game of Farmers",
+          "gamedes": "Game of Farmers is a casual idle farming game created by AppyApp. Leave the chaotic city life behind and start building your dream farm. Unlock various types of plants, vegetables, fruits, and animals and make money with their help even when you're offline."
         },
         {
           "id": "3",
-          "gameurl": "https://poki.com/en/g/supernova#fullscreen",
-          "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/739332737189b3683ffe4df29c66e039efde3b4869aa203744ee4befb79cb3c7.png",
-          "gamename": "Supernova",
-          "gamedes": "Supernova is a skill game where you fly a ship and have to dodge objects along the way. The game has great visuals, and contains multiple vehicles for you to unlock."
+          "gameurl": "https://poki.com/en/g/crazy-cars#fullscreen",
+          "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/0d016ff9d45823cb4223159d61d58367.png",
+          "gamename": "Car Games",
+          "gamedes": "Crazy Cars is a 3D car game that takes place in a vibrant location full of interesting tracks, entertaining obstacles, and rewarding challenges."
         },
         {
           "id": "4",
+          "gameurl": "https://poki.com/en/g/sweet-world#fullscreen",
+          "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=80,height=80,fit=cover,f=auto/9f92075d9b3287fc20559277effeb719.jpeg",
+          "gamename": "Sweet World",
+          "gamedes": "Sweet World is a matching game created by TapLabGames. Get ready for a sweet journey that takes place in a magical candy land! Find two identical candies that can be connected by three or fewer straight lines."
+        },
+        {
+          "id": "5",
           "gameurl": "https://poki.com/en/g/ping-pong-html5#fullscreen",
           "gameimage": "https://images.unsplash.com/photo-1609710228159-0fa9bd7c0827?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGluZyUyMHBvbmd8ZW58MHx8MHx8&w=1000&q=80",
           "gamename": "Ping Pong",
           "gamedes": "Ping Pong is a sports game created by MarketJS. Grab one of the digital paddles and enjoy an exciting Ping Pong experience."
         },
         {
-          "id": "5",
-          "gameurl": "https://poki.com/en/g/bottle-flip#fullscreen",
-          "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/ce41fca3-947a-4deb-a341-c0cc55480db6.png",
-          "gamename": "Bottle Flip",
-          "gamedes": "Flip the bottle is a game where you have to flip a bottle, and have it land on the table perfectly. This super-cool skill game dares you to become a master."
-        },
-        {
           "id": "6",
-          "gameurl": "https://poki.com/en/g/descent#fullscreen",
-          "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/1bb400df3b030c294d88197191c2cad8.png",
-          "gamename": "Descent",
-          "gamedes": "Descent is a skill game created by Sakkat Studio. You're a mountain climber who needs to descent. Hold down your finger or the left mouse button to jump away from the wall."
+          "gameurl": "https://poki.com/en/g/total-recoil#fullscreen",
+          "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=314,height=314,fit=cover,f=auto/6954db8e12fede944237a3ea07e685b8.png",
+          "gamename": "Total Recoil",
+          "gamedes": "Total Recoil is a cool HTML5 game that is playable both on your desktop and on your mobile phone."
         },
         {
-          "id": "7",
-          "gameurl": "https://poki.com/en/g/pocket-hockey#fullscreen",
-          "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/44da47cd5d15b86410cdb258e8b969f2.png",
-          "gamename": "Pocket Hockey",
-          "gamedes": "Pocket Hockey is a skill-based arcade game inspired by the classic air hockey experience. Unlike air hockey which is about having fast reaction skills, Pocket Hockey is about aiming and careful planning."
+          "id": "9",
+          "gameurl": "https://games.cdn.famobi.com/html5games/h/highway-rider-extreme/v060/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=83175bfa-1c89-46d9-91da-7ea5fc7a642f&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=707&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+          "gameimage": "https://img.cdn.famobi.com/portal/html5games/images/tmp/HighwayRiderExtremeTeaser.jpg",
+          "gamename": "Highway Rider Extreme",
+          "gamedes": "Put on a helmet and ride your motorbike in this super fast-paced racing game! Your time per level is limited, so don't crash and reach the finish line as fast as you can."
         }
       ]
     },
@@ -636,7 +629,56 @@
     },
     {
       "id": "2",
-      "name": "Sports & Racing",
+      "name": "Arcade Games",
+      "icon": "",
+      "gameList": [
+        {
+          "id": "0",
+          "gameurl": "https://poki.com/en/g/stupid-zombies#fullscreen",
+          "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/a7cfac4bc8ea2241480e822e986b3ab4.png",
+          "gamename": "Stupid Zombies",
+          "gamedes": "Stupid Zombies is a puzzle zombie shooting game developed by MarketJS. In this game, you’ll fight against zombies by aiming correctly with your gun and shooting bullets with rebounds."
+        },
+        {
+          "id": "1",
+          "gameurl": "https://poki.com/en/g/jetpack-joyride#fullscreen",
+          "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/d5d34cb9ce7b617b93338982aa0958ab.png",
+          "gamename": "Jetpack Joyride",
+          "gamedes": "Jetpack Joyride is an action-packed endless running game where you ride crazy vehicles and shoot enemies. You are Barry Steakfries, and you need to beat all the scientists to the end of the lab."
+        },
+        {
+          "id": "2",
+          "gameurl": "https://poki.com/en/g/subway-clash-3d#fullscreen",
+          "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/2cd29f9048f9f0ac59ec1201b77f4fdb.png",
+          "gamename": "Subway Clash 3D",
+          "gamedes": "Subway Clash 3D is a multiplayer shooter where you must descend into the subways and get ready to lead your team in the fight of the sewers."
+        },
+        {
+          "id": "3",
+          "gameurl": "https://poki.com/en/g/laborer-2#fullscreen",
+          "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=314,height=314,fit=cover,f=auto/771a3fc215300b52de02f49c4af0d186.png",
+          "gamename": "Laborer 2",
+          "gamedes": "Laborer 2 is a skill-based stickman shooting game created by ANV Games. You are a tired laborer who is sick of carrying boxes, so now you just destroy them using a variety of guns."
+        },
+        {
+          "id": "4",
+          "gameurl": "https://poki.com/en/g/raft-wars#fullscreen",
+          "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/d2a3bbd1bb8aea542835f4f8a353d388.png",
+          "gamename": "Raft Wars",
+          "gamedes": "Raft Wars is a fun, level-based shooting game created by Martijn Kunst, where you and your brother Simon will need to defend your treasure from enemies of all kinds."
+        },
+        {
+          "id": "5",
+          "gameurl": "https://poki.com/en/g/total-recoil#fullscreen",
+          "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=314,height=314,fit=cover,f=auto/6954db8e12fede944237a3ea07e685b8.png",
+          "gamename": "Total Recoil",
+          "gamedes": "Total Recoil is a cool HTML5 game that is playable both on your desktop and on your mobile phone."
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Racing",
       "icon": "",
       "gameList": [
         {
