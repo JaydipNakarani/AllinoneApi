@@ -522,13 +522,20 @@
         },
         {
           "id": "6",
-          "gameurl": "https://poki.com/en/g/total-recoil#fullscreen",
+          "gameurl": "https://poki.com/en/g/lines-to-fill#fullscreen",
           "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=314,height=314,fit=cover,f=auto/6954db8e12fede944237a3ea07e685b8.png",
           "gamename": "Total Recoil",
           "gamedes": "Total Recoil is a cool HTML5 game that is playable both on your desktop and on your mobile phone."
         },
         {
           "id": "9",
+          "gameurl": "https://games.cdn.famobi.com/html5games/h/highway-rider-extreme/v060/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=83175bfa-1c89-46d9-91da-7ea5fc7a642f&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=707&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+          "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=80,height=80,fit=cover,f=auto/fc2b879713950ed32f54607f060c7b04.png",
+          "gamename": "Lines to Fill",
+          "gamedes": "Lines to Fill is a thinking game where you draw lines to complete the given puzzle shape. Simply drag one of the colorful blocks using your finger or the left mouse button, and make sure there are no blank spots left."
+        },
+        {
+          "id": "10",
           "gameurl": "https://games.cdn.famobi.com/html5games/h/highway-rider-extreme/v060/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=83175bfa-1c89-46d9-91da-7ea5fc7a642f&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=707&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
           "gameimage": "https://img.cdn.famobi.com/portal/html5games/images/tmp/HighwayRiderExtremeTeaser.jpg",
           "gamename": "Highway Rider Extreme",
@@ -575,6 +582,13 @@
           "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/01ecf19b-30a8-449d-896e-02680f9f078a.png",
           "gamename": "Parking Fury 3D: Night Thief",
           "gamedes": "Drive stolen cars in Parking Fury 3D: Night Thief! In this racing game, you will deliver stolen cars under the moonlight. Be very careful, because the cops are looking for your vehicle."
+        }, 
+        {
+          "id": "5",
+          "gameurl": "https://poki.com/en/g/rally-champion#fullscreen",
+          "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=80,height=80,fit=cover,f=auto/f7c77877864c7e155e1128ea83870eda.png",
+          "gamename": "Rally Champion",
+          "gamedes": "Rally Champion is a realistic car racing game where you must race to finish in first place in various racing tracks across the globe. In this game, you can test how well you drive on gorgeous forest-themed tracks while enjoying a beautiful soundtrack."
         }
       ]
     },
@@ -757,6 +771,13 @@
           "gameimage": "https://img.cdn.famobi.com/portal/html5games/images/tmp/StreetRaceFuryTeaser.jpg",
           "gamename": "StreetRace Fury",
           "gamedes": "Win the cups and prize money and buy new, expensive racing cars to have an even better chance at beating your opponents. Style your car and use upgrades to create the ultimative racing machine! Get on the street and drive!"
+        },
+        {
+          "id": "11",
+          "gameurl": "https://games.cdn.famobi.com/html5games/w/word-detector/v390/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=fa994966-a4d2-4aa5-98b1-5b9f138b1edd&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=754&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+          "gameimage": "https://img.cdn.famobi.com/portal/html5games/images/tmp/WordDetectorTeaserB.jpg",
+          "gamename": "Word Detector",
+          "gamedes": "Find the hidden words from scrambled letters in this challenging puzzle! This game is not only perfect to exercise your brain, but also helps improve your vocabulary and spelling skills."
         }
       ]
     }
