@@ -31,10 +31,22 @@
     },
     {
       "id": "4",
-      "gameurl": "https://play.famobi.com/emoji-match",
+      "gameurl": "https://games.cdn.famobi.com/html5games/e/emoji-match/4bfd403d/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=0698948e-df9e-4ee7-a0d1-1f218e2bd4e1&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=714&original_ref=",
       "gameimage": "https://img.cdn.famobi.com/portal/html5games/images/tmp/EmojiMatchTeaser.jpg",
       "gamename": "EMOJI MATCH",
       "gamedes": "Unleash your inner emoji genius with Emoji Match - the ultimate 2D puzzle game that keeps your brain buzzing! Dive into the colourful world of Emoji Match, a captivating 2D puzzle game where you get to pair up cute emojis."
+    }, {
+      "id": "5",
+      "gameurl": "https://games.cdn.famobi.com/html5games/c/cannon-balls-3d/v190/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=3ffa11c2-61da-4974-892b-473582253371&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=722&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+      "gameimage": "https://img.cdn.famobi.com/portal/html5games/images/tmp/CannonBalls3dTeaser.jpg?v=0.2-e152dff4",
+      "gamename": "Cannon Balls 3D",
+      "gamedes": "Try to be the master of destruction, heat up the buildings neatly and show no mercy! In 'Cannon Balls 3D' it depends on how skillfully you place the shots so that the structures collapse as efficiently as possible."
+    },{
+      "id": "6",
+      "gameurl": "https://games.cdn.famobi.com/html5games/s/stair-race-3d/v030/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=5b50bf65-b7c1-4f18-b149-d4e3bb0e78d3&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=728&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+      "gameimage": "https://img.cdn.famobi.com/portal/html5games/images/tmp/StairRace3dTeaser.jpg",
+      "gamename": "Stair Race 3D",
+      "gamedes": "Prepare for one of the biggest challenge games of 2021 and build your stairs as fast as possible! You have to compete in a big arena for who is best in building stairs against a variety of difficult enemies."
     }
   ],
   "suggested": [
@@ -47,7 +59,7 @@
     },
     {
       "id": "1",
-      "gameurl": "https://play.famobi.com/8-ball-billiards-classic",
+      "gameurl": "https://games.cdn.famobi.com/html5games/0/8-ball-billiards-classic/v250/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=82038e98-d4e1-46dd-8de9-1460d1395eab&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=714&original_ref=https%3A%2F%2Fhtml5games.com%2F",
       "gameimage": "https://img.cdn.famobi.com/portal/html5games/images/tmp/8BallBilliardsClassicTeaser.jpg",
       "gamename": "8 BALL BILLIARDS CLASSIC",
       "gamedes": "Train your billiard skills and play against the computer or your friend in this 8-ball Pool sports game! Select a difficulty that matches your abilities and start pocketing the balls."
@@ -68,7 +80,7 @@
     },
     {
       "id": "4",
-      "gameurl": "https://play.famobi.com/diamond-rush",
+      "gameurl": "https://games.cdn.famobi.com/html5games/d/diamond-rush/v140/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=395b0746-6d0e-4ec8-b11c-18cab8009214&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=716&original_ref=",
       "gameimage": "https://img.cdn.famobi.com/portal/html5games/images/tmp/DiamondRushTeaser.jpg?v=0.2-61a6520d",
       "gamename": "DIAMOND RUSH",
       "gamedes": "In this sequel to the popular Match 3 classic Jewelish it's all about your matchmaking skills! Swap adjacent jewels to make rows of at least 3 same-colored gems and remove them from the field."
@@ -161,7 +173,7 @@
     },
     {
       "id": "4",
-      "gameurl": "https://play.famobi.com/stack-smash",
+      "gameurl": "https://games.cdn.famobi.com/html5games/s/stack-smash/v040/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=3ad5d684-ab8b-4730-a209-8a614030c39a&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=718&original_ref=https%3A%2F%2Fhtml5games.com%2F",
       "gameimage": "https://img.cdn.famobi.com/portal/html5games/images/tmp/StackSmashTeaser.jpg?v=0.2-61a6520d",
       "gamename": "STACK SMASH",
       "gamedes": "Then test yourself on 'Stack Smash' and prove your skills! Destroy all platforms to get to the ground and win! But watch out!"
@@ -319,7 +331,7 @@
     },
     {
       "id": "3",
-      "gameurl": "https://play.famobi.com/peet-around",
+      "gameurl": "https://games.cdn.famobi.com/html5games/p/peet-around/v020/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=1f048013-f524-417c-8e90-92bb2e8ef33d&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=721&original_ref=https%3A%2F%2Fhtml5games.com%2F",
       "gameimage": "https://img.cdn.famobi.com/portal/html5games/images/tmp/PeetAroundTeaser.jpg?v=0.2-61a6520d",
       "gamename": "Peet Around",
       "gamedes": "the ultimate toilet rush game! Get ready for a hilariously addictive gaming experience as you guide Peet through endless levels of circular madness in Peet Around."
@@ -333,7 +345,7 @@
     },
     {
       "id": "5",
-      "gameurl": "https://play.famobi.com/pull-pins",
+      "gameurl": "https://games.cdn.famobi.com/html5games/p/pull-pins/v220/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=c24e5a78-927a-4b7c-a536-3452d1f57021&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=721&original_ref=https%3A%2F%2Fhtml5games.com%2F",
       "gameimage": "https://img.cdn.famobi.com/portal/html5games/images/tmp/PullPinsTeaser.jpg?v=0.2-61a6520d",
       "gamename": "PULL PINS",
       "gamedes": "Pull Pins has finally arrived to Famobi! The tricky puzzle classic features unlimited levels with unlimited challenges and fun."
@@ -347,7 +359,7 @@
     },
     {
       "id": "6",
-      "gameurl": "https://play.famobi.com/slice-rush",
+      "gameurl": "https://games.cdn.famobi.com/html5games/s/slice-rush/v040/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=346e8aee-6848-4974-a0cd-d19525a18c41&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=720&original_ref=https%3A%2F%2Fwww.google.com%2F",
       "gameimage": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SliceRushTeaser.jpg?v=0.2-61a6520d",
       "gamename": "Slice Rush",
       "gamedes": "Take the knife and chop your way through the kitchen! In 'Slice Rush' you have to time your cuts skillfully because your knife can quickly fly out of your hand if you are not careful enough."
@@ -477,7 +489,90 @@
       "gameimage": "https://img.cdn.famobi.com/portal/html5games/images/tmp/OmNomRunTeaser.jpg",
       "gamename": "Om Nom Run",
       "gamedes": "Run alongside Om Nom in his famous adventure, now finally in immersive and full-responsive HTML5. Try to run as far as possible by avoiding the dangerous obstacles and enemies, collect all coins and transform Om Nom into the fastest runner possible."
-    }
+    },{
+          "id": "25",
+          "gameurl": "https://games.cdn.famobi.com/html5games/t/traffic-tom/v010/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=8bf9689b-ca21-4291-af6a-f85c6bcf92f7&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=442&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+          "gameimage": "https://img.cdn.famobi.com/portal/html5games/images/tmp/TrafficTomTeaser.jpg",
+          "gamename": "Traffic Tom",
+          "gamedes": "On your way, you will explore 3 colorful areas with beautiful environments. But don't get fooled by the peaceful looks, evil bosses are lurking in each area waiting to challenge you for risky races. Start the engines, but on your helmet, and conquer the highway!"
+        },
+        {
+          "id": "26",
+          "gameurl": "https://games.cdn.famobi.com/html5games/m/moto-x3m-pool-party/v080/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=b2102250-eb51-4704-9cab-ff296491cc68&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=440&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+          "gameimage": "https://img.cdn.famobi.com/portal/html5games/images/tmp/MotoX3mPoolPartyTeaser.jpg",
+          "gamename": "Moto X3M Pool Party",
+          "gamedes": "you can always start from the latest checkpoint, but you lose valuable seconds. So try to complete each track in one go to win all 3 stars at the end of a level. Unlock cool new bikes, put on some swimwear and join the pool party fun!"
+        },
+        {
+          "id": "27",
+          "gameurl": "https://games.cdn.famobi.com/html5games/a/adventure-drivers/v060/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=7adef9f1-9ddd-437a-b5ee-196da61ba5c7&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=445&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+          "gameimage": "https://img.cdn.famobi.com/portal/html5games/images/tmp/AdventureDriversTeaser.jpg",
+          "gamename": "Adventure Driver",
+          "gamedes": "Go on an exciting adventure and compete in a thrilling 2D car race for fame, glory and treasures! Explore 30 obstacle tracks on a mysterious island and try to be the first to pass the finish line."
+        },
+        {
+          "id": "28",
+          "gameurl": "https://games.cdn.famobi.com/html5games/m/moto-x3m/v100/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=442157bb-0a48-4e9b-9fa6-e1503f16e8e3&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=448&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+          "gameimage": "https://img.cdn.famobi.com/portal/html5games/images/tmp/MotoX3mTeaser.jpg",
+          "gamename": "Moto X3M",
+          "gamedes": "This popular bike racing game is now available in HTML5! Get on your motorbike and try to beat 25 challenging levels as fast as you can. Race up and down the hills, jump over obstacles and perform sick stunts in the air."
+        },
+        {
+          "id": "29",
+          "gameurl": "https://games.cdn.famobi.com/html5games/h/high-hills/v130/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=2a35d037-696c-4351-9e34-7260392f9404&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=451&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+          "gameimage": "https://img.cdn.famobi.com/portal/html5games/images/tmp/HighHillsTeaser.jpg",
+          "gamename": "High Hills",
+          "gamedes": "The controls are simple: tap to drive and hold to spin your car backwards. Make a flip to earn a bonus and collect additional coins to upgrade your vehicle in the shop and drive even further."
+        },
+        {
+          "id": "30",
+          "gameurl": "https://games.cdn.famobi.com/html5games/d/drag-racing-club/v060/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=7903c763-4f6b-48fb-8396-3a18daae70c7&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=316&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+          "gameimage": "https://img.cdn.famobi.com/portal/html5games/images/tmp/DragRacingClubTeaser.jpg",
+          "gamename": "Drag Racing Club",
+          "gamedes": "Get into your car and explore the exciting world of street drag racing! Make a name for yourself in the scene as you race against various opponents and climb the ladder to the top"
+        },
+        {
+          "id": "31",
+          "gameurl": "https://games.cdn.famobi.com/html5games/s/stair-race-3d/v030/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=5b50bf65-b7c1-4f18-b149-d4e3bb0e78d3&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=271&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+          "gameimage": "https://img.cdn.famobi.com/portal/html5games/images/tmp/StairRace3dTeaser.jpg",
+          "gamename": "Stair Race 3d",
+          "gamedes": "You have to compete in a big arena for who is best in building stairs against a variety of difficult enemies. In order to win, you have to pick up the stair planks and use them in order to build stairs and reach the next platform."
+        },
+        {
+          "id": "32",
+          "gameurl": "https://games.cdn.famobi.com/html5games/b/biker-street/v110/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=44eae6d5-c7ec-423f-9992-a29b03b9cb3f&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=320&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+          "gameimage": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BikerStreetTeaser.jpg",
+          "gamename": "Biker Street",
+          "gamedes": "Try to go as far as possible with your fancy steampunk motorbike in this 2D racing game! Train your driving skills and tilt your vehicle back and forth to climb hills and other tricky obstacles."
+        },
+        {
+          "id": "33",
+          "gameurl": "https://games.cdn.famobi.com/html5games/d/dont-crash/v030/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=9320bd31-c1fa-4dda-9a89-6e3946399a84&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=713&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+          "gameimage": "https://img.cdn.famobi.com/portal/html5games/images/tmp/DontCrashTeaser.jpg",
+          "gamename": "Dont Crash",
+          "gamedes": "Do not crash! This is the only rule of the game. Race against another car, tap anywhere to change lanes, and avoid a crash at all costs. Addictive and nerve-wracking, how many rounds can you beat?"
+        },
+        {
+          "id": "34",
+          "gameurl": "https://games.cdn.famobi.com/html5games/h/highway-rider-extreme/v060/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=83175bfa-1c89-46d9-91da-7ea5fc7a642f&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=707&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+          "gameimage": "https://img.cdn.famobi.com/portal/html5games/images/tmp/HighwayRiderExtremeTeaser.jpg",
+          "gamename": "Highway Rider Extreme",
+          "gamedes": "Put on a helmet and ride your motorbike in this super fast-paced racing game! Your time per level is limited, so don't crash and reach the finish line as fast as you can."
+        },
+        {
+          "id": "35",
+          "gameurl": "https://games.cdn.famobi.com/html5games/s/streetrace-fury/v360/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=c124e0c0-7312-4f81-bdf0-ab1dbcc47ed4&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=708&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+          "gameimage": "https://img.cdn.famobi.com/portal/html5games/images/tmp/StreetRaceFuryTeaser.jpg",
+          "gamename": "StreetRace Fury",
+          "gamedes": "Win the cups and prize money and buy new, expensive racing cars to have an even better chance at beating your opponents. Style your car and use upgrades to create the ultimative racing machine! Get on the street and drive!"
+        },
+        {
+          "id": "36",
+          "gameurl": "https://games.cdn.famobi.com/html5games/w/word-detector/v390/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=fa994966-a4d2-4aa5-98b1-5b9f138b1edd&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=754&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+          "gameimage": "https://img.cdn.famobi.com/portal/html5games/images/tmp/WordDetectorTeaserB.jpg",
+          "gamename": "Word Detector",
+          "gamedes": "Find the hidden words from scrambled letters in this challenging puzzle! This game is not only perfect to exercise your brain, but also helps improve your vocabulary and spelling skills."
+        }
   ],
   "category": [
     {
@@ -592,7 +687,7 @@
         }, 
         {
           "id": "6",
-          "gameurl": "https://play.famobi.com/biker-street",
+          "gameurl": "https://games.cdn.famobi.com/html5games/b/biker-street/v110/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=44eae6d5-c7ec-423f-9992-a29b03b9cb3f&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=722&original_ref=https%3A%2F%2Fhtml5games.com%2F",
           "gameimage": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BikerStreetTeaser.jpg?v=0.2-61a6520d",
           "gamename": "BIKER STREET",
           "gamedes": "Try to go as far as possible with your fancy steampunk motorbike in this 2D racing game! Train your driving skills and tilt your vehicle back and forth to climb hills and other tricky obstacles."
